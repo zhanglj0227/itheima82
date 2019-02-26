@@ -10,5 +10,6 @@ public class Main {
 		System.out.println("211111111");
 		System.out.println("5555555555");
 		小伙子,有前途!!! 江哥看好你 !
+		1111111111111111111
     }
 }
